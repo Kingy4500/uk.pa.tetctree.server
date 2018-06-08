@@ -1,6 +1,6 @@
 {
     "context": "server",
-    "identifier": "uk.pa.tetctree",
+    "identifier": "uk.pa.tetctree.server",
     "display_name": "multiple Biomes for System Designers",
     "description": "Oasis, Mountain, Rainforest.",
     "author": "TheEffectTheCause",
@@ -30,6 +30,6 @@
     "priority": 100,
     "enabled": true,
     "dependencies": [
-        "uk.pa.tetcserver"
+        "uk.pa.tetctree"
     ]
 }
