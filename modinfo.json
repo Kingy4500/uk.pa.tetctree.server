@@ -1,25 +1,34 @@
 {
-	"author": "TheEffectTheCause",
-	"build": "99377",
-	"context": "server",
-	"date": "2017-02-10",
-	"description": "Server Mod.",
-	"display_name": "Multiple Biomes For System Designers",
-	"forum": "https://forums.uberent.com/threads/theeffectthecauses-map-pack.71952/",
-	"icon": "http://postimg.org/image/dzbkoxfnr/dividene1.jpg",
-	"identifier": "uk.pa.tetctree.server",
-	"signature": "not yet implemented",
-	"version": "0.4.9",
-	"authors": [
-		"TheEffectTheCause"
-	],
-	"priority": 100,
-	"dependencies": [
-		"uk.pa.tetctree"
-	],
-	"scenes": {
+    "context": "client",
+    "identifier": "uk.pa.tetctree",
+    "display_name": "multiple Biomes for System Designer's",
+    "description": "Oasis, Mountain, Rainforest. All biomes were created to achieve a single textured planet for the pople who want all rock, all desert, all trees. The Oasis biome can used as a standard biome and includes trees by the water, dead trees and rocks away from the water. Random generation is not meant to be used here, CSG is funky to say the least.",
+    "author": "TheEffectTheCause",
+    "version": "0.4",
+    "build": "108271",
+    "date": "2018/06/08",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/grand-homies-map-pack.72635/",
+    "icon": "http://az592774.vo.msecnd.net/pgl-release/Images/LuxuryImages/36113/36113_36113_A4181494_IMG_01.jpg",
+    "category": [
+        "editor"
+    ],
+   "scenes": {
 		"system_editor": [
 			"coui://ui/mods/bm/bm.js"
-		]
-	}
+],
+    "searchable": [
+        "theeffectthecause",
+        "biome",
+        "map",
+        "maps",
+        "systems",
+        "system",
+        "planet"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "uk.pa.tetcserver"
+    ]
 }
