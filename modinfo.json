@@ -1,0 +1,25 @@
+{
+	"author": "TheEffectTheCause",
+	"build": "99377",
+	"context": "server",
+	"date": "2017-02-10",
+	"description": "Server Mod.",
+	"display_name": "Multiple Biomes For System Designers",
+	"forum": "https://forums.uberent.com/threads/theeffectthecauses-map-pack.71952/",
+	"icon": "http://postimg.org/image/dzbkoxfnr/dividene1.jpg",
+	"identifier": "uk.pa.tetctree.server",
+	"signature": "not yet implemented",
+	"version": "0.4.9",
+	"authors": [
+		"TheEffectTheCause"
+	],
+	"priority": 100,
+	"dependencies": [
+		"uk.pa.tetctree"
+	],
+	"scenes": {
+		"system_editor": [
+			"coui://ui/mods/bm/bm.js"
+		]
+	}
+}
