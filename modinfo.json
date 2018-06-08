@@ -1,14 +1,14 @@
 {
     "context": "client",
     "identifier": "uk.pa.tetctree",
-    "display_name": "multiple Biomes for System Designer's",
-    "description": "Oasis, Mountain, Rainforest. All biomes were created to achieve a single textured planet for the pople who want all rock, all desert, all trees. The Oasis biome can used as a standard biome and includes trees by the water, dead trees and rocks away from the water. Random generation is not meant to be used here, CSG is funky to say the least.",
+    "display_name": "multiple Biomes for System Designers",
+    "description": "Oasis, Mountain, Rainforest.",
     "author": "TheEffectTheCause",
     "version": "0.4",
     "build": "108271",
     "date": "2018/06/08",
     "signature": "not yet implemented",
-    "forum": "https://forums.uberent.com/threads/grand-homies-map-pack.72635/",
+    "forum": "https://forums.uberent.com/threads/multiple-biomes-for-system-designers.72985/#post-1147105",
     "icon": "http://az592774.vo.msecnd.net/pgl-release/Images/LuxuryImages/36113/36113_36113_A4181494_IMG_01.jpg",
     "category": [
         "editor"
