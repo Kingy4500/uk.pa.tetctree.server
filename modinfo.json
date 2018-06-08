@@ -1,5 +1,5 @@
 {
-    "context": "client",
+    "context": "server",
     "identifier": "uk.pa.tetctree",
     "display_name": "multiple Biomes for System Designers",
     "description": "Oasis, Mountain, Rainforest.",
