@@ -4,9 +4,9 @@
     "display_name": "multiple Biomes for System Designers",
     "description": "Oasis, Mountain, Rainforest.",
     "author": "TheEffectTheCause",
-    "version": "0.4",
+    "version": "0.4.2",
     "build": "108271",
-    "date": "2018/06/08",
+    "date": "2018/06/10",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/multiple-biomes-for-system-designers.72985/#post-1147105",
     "icon": "http://az592774.vo.msecnd.net/pgl-release/Images/LuxuryImages/36113/36113_36113_A4181494_IMG_01.jpg",
@@ -29,6 +29,9 @@
     ],
     "priority": 100,
     "enabled": true,
+    "classicOnly": false,
+    "classic": false,
+    "titans": true,
     "dependencies": [
         "uk.pa.tetctree"
     ]
