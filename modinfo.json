@@ -4,7 +4,7 @@
     "display_name": "multiple Biomes for System Designers",
     "description": "Oasis, Mountain, Rainforest.",
     "author": "TheEffectTheCause",
-    "version": "0.4.2",
+    "version": "0.4.4",
     "build": "108271",
     "date": "2018/06/10",
     "signature": "not yet implemented",
@@ -29,6 +29,10 @@
     ],
     "priority": 100,
     "enabled": true,
+	"companions": 
+	[
+		"uk.pa.tetctree"
+	],
     "dependencies": [
         "uk.pa.tetctree"
     ]
