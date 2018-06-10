@@ -29,9 +29,6 @@
     ],
     "priority": 100,
     "enabled": true,
-    "classicOnly": false,
-    "classic": false,
-    "titans": true,
     "dependencies": [
         "uk.pa.tetctree"
     ]
