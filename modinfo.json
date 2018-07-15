@@ -29,7 +29,9 @@
     ],
     "priority": 100,
     "enabled": true,
-	"companions": ["uk.pa.tetctree"],
+	"companions": [
+		"uk.pa.tetctree"
+	],
     "dependencies": [
         "uk.pa.tetctree"
     ]
