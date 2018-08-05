@@ -1,1 +1,1 @@
-model.biomes.push('oasis', 'rainforest', 'mountain')
+model.biomes.push('oasis', 'rainforest', 'mountain','icey')
