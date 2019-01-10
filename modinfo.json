@@ -2,7 +2,7 @@
     "context": "server",
     "identifier": "uk.pa.tetctree.server",
     "display_name": "multiple Biomes for System Designers",
-    "description": "Oasis, Mountain, Rainforest.",
+    "description": "Oasis, Mountain, Rainforest, ice",
     "author": "TheEffectTheCause",
     "version": "0.4.5",
     "build": "108271",
